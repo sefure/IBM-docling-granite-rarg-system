@@ -1,10 +1,11 @@
+
+## English
+
 # AI-Powered Document Retrieval System with Docling & IBM Granite
 
 This project is an advanced Document Retrieval System developed as part of the **IBM AI Training Program**. It leverages **IBM's Granite** large language model and **DS4SD's Docling** to parse complex documents (like PDFs, DOCX) and build an efficient, intelligent Retrieval-Augmented Generation (RAG) pipeline.
 
 ---
-
-## English
 
 ## 🚀 Overview
 
@@ -36,13 +37,14 @@ The system follows a classic **Retrieval-Augmented Generation (RAG)** workflow:
 * **Framework:** [Specify if you used LangChain, LlamaIndex, or Native Python]
 
 ---
+
+## Türkçe
+
 # Docling ve IBM Granite ile Yapay Zeka Destekli Doküman Erişim Sistemi
 
 Bu proje, **IBM Yapay Zeka Eğitim Programı** kapsamında geliştirilmiş gelişmiş bir Doküman Erişim Sistemidir. Proje, karmaşık dokümanları (PDF, DOCX vb.) anlamlı parçalara ayırmak ve verimli bir **RAG (Retrieval-Augmented Generation / Doküman Destekli Nesil)** hattı kurmak için **IBM Granite** büyük dil modelini ve **DS4SD Docling** kütüphanesini kullanır.
 
 ---
-
-## Türkçe
 
 ## 🚀 Genel Bakış
 
